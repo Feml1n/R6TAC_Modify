@@ -24,7 +24,7 @@ body {
 .attack_slot {
   border: 0.1rem solid white;
   display: block;
-  width: 730px;
+  width: 770px;
   height: 115px;
   position: relative;
   margin-top: 20px;
@@ -56,7 +56,7 @@ body {
   height: 90px;
   position: absolute;
   top: 20px;
-  left: 740px;
+  left: 814px;
   border: 2px solid white;
   text-align: center;
 }
@@ -69,7 +69,7 @@ body {
 .drone {
   position: absolute;
   top: 70px;
-  left: 763px;
+  left: 837px;
   border: 2px solid rgb(255, 0, 0);
 }
 .bleaching_slot {
@@ -77,14 +77,14 @@ body {
   height: 90px;
   position: absolute;
   top: 20px;
-  left: 825px;
+  left: 892px;
   border: 2px solid white;
   text-align: center;
 }
 .bleaching {
   position: absolute;
   top: 70px;
-  left: 848px;
+  left: 915px;
   border: 2px solid rgb(255, 255, 0);
 }
 .bleaching_slot span {
@@ -98,14 +98,14 @@ body {
   height: 90px;
   position: absolute;
   top: 20px;
-  left: 910px;
+  left: 970px;
   border: 2px solid white;
   text-align: center;
 }
 .claymore {
   position: absolute;
   top: 70px;
-  left: 933px;
+  left: 993px;
   border: 2px solid rgb(0, 255, 255);
 }
 .claymore_slot span {
@@ -119,14 +119,14 @@ body {
   height: 90px;
   position: absolute;
   top: 20px;
-  left: 995px;
+  left: 1048px;
   border: 2px solid white;
   text-align: center;
 }
 .smoke {
   position: absolute;
   top: 70px;
-  left: 1018px;
+  left: 1071px;
   border: 2px solid rgb(0, 255, 0);
 }
 .smoke_slot span {
@@ -140,14 +140,14 @@ body {
   height: 90px;
   position: absolute;
   top: 20px;
-  left: 1080px;
+  left: 1126px;
   border: 2px solid white;
   text-align: center;
 }
 .grenade {
   position: absolute;
   top: 70px;
-  left: 1103px;
+  left: 1149px;
   border: 2px solid rgb(0, 0, 255);
 }
 .grenade_slot span {
@@ -161,14 +161,14 @@ body {
   height: 90px;
   position: absolute;
   top: 20px;
-  left: 1165px;
+  left: 1204px;
   border: 2px solid white;
   text-align: center;
 }
 .flash {
   position: absolute;
   top: 70px;
-  left: 1188px;
+  left: 1227px;
   border: 2px solid rgb(255, 0, 255);
 }
 .flash_slot span {
@@ -182,14 +182,14 @@ body {
   height: 90px;
   position: absolute;
   top:20px;
-  left: 1250px;
+  left: 1282px;
   border: 2px solid white;
   text-align: center;
 }
 .hardbleaching {
   position: absolute;
   top: 70px;
-  left: 1273px;
+  left: 1305px;
   border: 2px solid rgb(0, 255, 128);
 }
 .hardbleaching_slot span {
@@ -203,14 +203,14 @@ body {
   height: 90px;
   position: absolute;
   top:20px;
-  left: 1335px;
+  left: 1360px;
   border: 2px solid white;
   text-align: center;
 }
 .diffuser {
   position: absolute;
   top: 70px;
-  left: 1358px;
+  left: 1383px;
   border: 2px solid rgb(255, 155, 0);
 }
 .diffuser_slot span {
@@ -226,7 +226,7 @@ body {
   height: 90px;
   position: absolute;
   top: 20px;
-  left: 776px;
+  left: 814px;
   border: 2px solid white;
 }
 .reinforcement_slot span {
@@ -238,7 +238,7 @@ body {
 .reinforcement {
   position: absolute;
   top: 70px;
-  left: 800px;
+  left: 837px;
   border: 2px solid rgb(255, 0, 0);
 }
 .wire_slot {
@@ -246,14 +246,14 @@ body {
   height: 90px;
   position: absolute;
   top: 20px;
-  left: 855px;
+  left: 892px;
   border: 2px solid white;
   text-align: center;
 }
 .wire {
   position: absolute;
   top: 70px;
-  left: 878px;
+  left: 915px;
   border: 2px solid rgb(255, 255, 0);
 }
 .wire_slot span {
@@ -267,14 +267,14 @@ body {
   height: 90px;
   position: absolute;
   top: 20px;
-  left: 933px;
+  left: 970px;
   border: 2px solid white;
   text-align: center;
 }
 .shield {
   position: absolute;
   top: 70px;
-  left: 956px;
+  left: 993px;
   border: 2px solid rgb(0, 255, 255);
 }
 .shield_slot span {
@@ -289,14 +289,14 @@ body {
   height: 90px;
   position: absolute;
   top: 20px;
-  left: 1010px;
+  left: 1048px;
   border: 2px solid white;
   text-align: center;
 }
 .camera {
   position: absolute;
   top: 70px;
-  left: 1034px;
+  left: 1071px;
   border: 2px solid rgb(0, 255, 0);
 }
 .camera_slot span {
@@ -310,14 +310,14 @@ body {
   height: 90px;
   position: absolute;
   top: 20px;
-  left: 1088px;
+  left: 1126px;
   border: 2px solid white;
   text-align: center;
 }
 .impact {
   position: absolute;
   top: 70px;
-  left: 1110px;
+  left: 1149px;
   border: 2px solid rgb(0, 0, 255);
 }
 .impact_slot span {
@@ -331,14 +331,14 @@ body {
   height: 90px;
   position: absolute;
   top: 20px;
-  left: 1169px;
+  left: 1204px;
   border: 2px solid white;
   text-align: center;
 }
 .c4 {
   position: absolute;
   top: 70px;
-  left: 1190px;
+  left: 1227px;
   border: 2px solid rgb(255, 0, 255);
 }
 .c4_slot span {
@@ -352,14 +352,14 @@ body {
   height: 90px;
   position: absolute;
   top:20px;
-  left: 1250px;
+  left: 1282px;
   border: 2px solid white;
   text-align: center;
 }
 .alarm {
   position: absolute;
   top: 68px;
-  left: 1273px;
+  left: 1305px;
   border: 2px solid rgb(0, 255, 128);
 }
 .alarm_slot span {
@@ -373,14 +373,14 @@ body {
   height: 90px;
   position: absolute;
   top:20px;
-  left: 1335px;
+  left: 1360px;
   border: 2px solid white;
   text-align: center;
 }
 .barricade {
   position: absolute;
   top: 68px;
-  left: 1360px;
+  left: 1385px;
   border: 2px solid rgb(255, 155, 0);
 }
 .barricade_slot span {
@@ -858,6 +858,143 @@ label {
   margin-left: 0.4rem;
 }
 /* オペレーターのアイコンの位置決め */
+/* 攻撃側オペレーターアイコン位置決め */
+#sledge {
+  top: 15px;
+  left: 10px;
+}
+#thatcher {
+  top: 15px;
+  left: 55px;
+}
+#ash {
+  top: 15px;
+  left: 100px;
+}
+#thermite {
+  top: 15px;
+  left: 145px;
+}
+#twitch {
+  top: 15px;
+  left: 190px;
+}
+#montagne {
+  top: 15px;
+  left: 235px;
+}
+#glaz {
+  top: 15px;
+  left: 280px;
+}
+#fuze {
+  top: 15px;
+  left: 325px;
+}
+#blitz {
+  top: 15px;
+  left: 370px;
+}
+#iq {
+  top: 15px;
+  left: 415px;
+}
+#buck {
+  top: 15px;
+  left: 460px;
+}
+#blackbeard {
+  top: 15px;
+  left: 505px;
+}
+#capitao {
+  top: 15px;
+  left: 550px;
+}
+#hibana {
+  top: 15px;
+  left: 595px;
+}
+#jackal {
+  top: 15px;
+  left: 640px;
+}
+#ying {
+  top: 15px;
+  left: 685px;
+}
+#zofia {
+  top: 65px;
+  left: 10px;
+}
+#dokkaebi {
+  top: 65px;
+  left: 55px;
+}
+#lion {
+  top: 65px;
+  left: 100px;
+}
+#finka {
+  top: 65px;
+  left: 145px;
+}
+#marverick {
+  top: 65px;
+  left: 190px;
+}
+#nomad {
+  top: 65px;
+  left: 235px;
+}
+#gridlock {
+  top: 65px;
+  left: 280px;
+}
+#nokk {
+  top: 65px;
+  left: 325px;
+}
+#amaru {
+  top: 65px;
+  left: 370px;
+}
+#kali {
+  top: 65px;
+  left: 415px;
+}
+#iana {
+  top: 65px;
+  left: 460px;
+}
+#ace {
+  top: 65px;
+  left: 505px;
+}
+#zero {
+  top: 65px;
+  left: 550px;
+}
+#flores {
+  top: 65px;
+  left: 595px;
+}
+#osa {
+  top: 65px;
+  left: 640px;
+}
+#sens {
+  top: 65px;
+  left: 685px;
+}
+#grim {
+  top: 15px;
+  left: 730px;
+}
+#brava {
+  top: 65px;
+  left: 730px;
+}
 /* 防衛側オペレーターアイコンの位置決め */
 #smoke {
   top: 15px;
@@ -994,133 +1131,4 @@ label {
 #fenrir {
   top: 65px;
   left: 730px;
-}
-/* 攻撃側オペレーターアイコン位置決め */
-#sledge {
-  top: 15px;
-  left: 10px;
-}
-#thatcher {
-  top: 15px;
-  left: 55px;
-}
-#ash {
-  top: 15px;
-  left: 100px;
-}
-#thermite {
-  top: 15px;
-  left: 145px;
-}
-#twitch {
-  top: 15px;
-  left: 190px;
-}
-#montagne {
-  top: 15px;
-  left: 235px;
-}
-#glaz {
-  top: 15px;
-  left: 280px;
-}
-#fuze {
-  top: 15px;
-  left: 325px;
-}
-#blitz {
-  top: 15px;
-  left: 370px;
-}
-#iq {
-  top: 15px;
-  left: 415px;
-}
-#buck {
-  top: 15px;
-  left: 460px;
-}
-#blackbeard {
-  top: 15px;
-  left: 505px;
-}
-#capitao {
-  top: 15px;
-  left: 550px;
-}
-#hibana {
-  top: 15px;
-  left: 595px;
-}
-#jackal {
-  top: 15px;
-  left: 640px;
-}
-#ying {
-  top: 15px;
-  left: 685px;
-}
-#zofia {
-  top: 65px;
-  left: 10px;
-}
-#dokkaebi {
-  top: 65px;
-  left: 55px;
-}
-#lion {
-  top: 65px;
-  left: 100px;
-}
-#finka {
-  top: 65px;
-  left: 145px;
-}
-#marverick {
-  top: 65px;
-  left: 190px;
-}
-#nomad {
-  top: 65px;
-  left: 235px;
-}
-#gridlock {
-  top: 65px;
-  left: 280px;
-}
-#nokk {
-  top: 65px;
-  left: 325px;
-}
-#amaru {
-  top: 65px;
-  left: 370px;
-}
-#kali {
-  top: 65px;
-  left: 415px;
-}
-#iana {
-  top: 65px;
-  left: 460px;
-}
-#ace {
-  top: 65px;
-  left: 505px;
-}
-#zero {
-  top: 65px;
-  left: 550px;
-}
-#flores {
-  top: 65px;
-  left: 595px;
-}
-#osa {
-  top: 65px;
-  left: 640px;
-}
-#sens {
-  top: 65px;
-  left: 685px;
 }
