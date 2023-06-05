@@ -4,7 +4,7 @@ body {
 .sponsored_slot{
   position: absolute;
   top: 40px;
-  left: 1475px;
+  left: 1540px;
 }
 .sponsored_slot p{
   margin-top: 4px;
@@ -55,10 +55,16 @@ body {
   width: 70px;
   height: 90px;
   position: absolute;
-  top: 20px;
+  top: 0px;
   left: 814px;
   border: 2px solid white;
   text-align: center;
+}
+.drone {
+  position: absolute;
+  top: 50px;
+  left: 837px;
+  border: 2px solid rgb(255, 0, 0);
 }
 .drone_slot span {
   display: inline-block;
@@ -66,24 +72,18 @@ body {
   color: white;
   font-size: 12px;
 }
-.drone {
-  position: absolute;
-  top: 70px;
-  left: 837px;
-  border: 2px solid rgb(255, 0, 0);
-}
 .bleaching_slot {
   width: 70px;
   height: 90px;
   position: absolute;
-  top: 20px;
+  top: 0px;
   left: 892px;
   border: 2px solid white;
   text-align: center;
 }
 .bleaching {
   position: absolute;
-  top: 70px;
+  top: 50px;
   left: 915px;
   border: 2px solid rgb(255, 255, 0);
 }
@@ -97,14 +97,14 @@ body {
   width: 70px;
   height: 90px;
   position: absolute;
-  top: 20px;
+  top: 0px;
   left: 970px;
   border: 2px solid white;
   text-align: center;
 }
 .claymore {
   position: absolute;
-  top: 70px;
+  top: 50px;
   left: 993px;
   border: 2px solid rgb(0, 255, 255);
 }
@@ -118,14 +118,14 @@ body {
   width: 70px;
   height: 90px;
   position: absolute;
-  top: 20px;
+  top: 0px;
   left: 1048px;
   border: 2px solid white;
   text-align: center;
 }
 .smoke {
   position: absolute;
-  top: 70px;
+  top: 50px;
   left: 1071px;
   border: 2px solid rgb(0, 255, 0);
 }
@@ -139,14 +139,14 @@ body {
   width: 70px;
   height: 90px;
   position: absolute;
-  top: 20px;
+  top: 0px;
   left: 1126px;
   border: 2px solid white;
   text-align: center;
 }
 .grenade {
   position: absolute;
-  top: 70px;
+  top: 50px;
   left: 1149px;
   border: 2px solid rgb(0, 0, 255);
 }
@@ -160,14 +160,14 @@ body {
   width: 70px;
   height: 90px;
   position: absolute;
-  top: 20px;
+  top: 0px;
   left: 1204px;
   border: 2px solid white;
   text-align: center;
 }
 .flash {
   position: absolute;
-  top: 70px;
+  top: 50px;
   left: 1227px;
   border: 2px solid rgb(255, 0, 255);
 }
@@ -181,14 +181,14 @@ body {
   width: 70px;
   height: 90px;
   position: absolute;
-  top:20px;
+  top:0px;
   left: 1282px;
   border: 2px solid white;
   text-align: center;
 }
 .hardbleaching {
   position: absolute;
-  top: 70px;
+  top: 50px;
   left: 1305px;
   border: 2px solid rgb(0, 255, 128);
 }
@@ -202,14 +202,14 @@ body {
   width: 70px;
   height: 90px;
   position: absolute;
-  top:20px;
+  top: 0px;
   left: 1360px;
   border: 2px solid white;
   text-align: center;
 }
 .diffuser {
   position: absolute;
-  top: 70px;
+  top: 50px;
   left: 1383px;
   border: 2px solid rgb(255, 155, 0);
 }
@@ -225,9 +225,15 @@ body {
   width: 70px;
   height: 90px;
   position: absolute;
-  top: 20px;
+  top: -20px;
   left: 814px;
   border: 2px solid white;
+}
+.reinforcement {
+  position: absolute;
+  top: 30px;
+  left: 837px;
+  border: 2px solid rgb(255, 0, 0);
 }
 .reinforcement_slot span {
   display: inline-block;
@@ -235,24 +241,18 @@ body {
   color: white;
   font-size: 15px;
 }
-.reinforcement {
-  position: absolute;
-  top: 70px;
-  left: 837px;
-  border: 2px solid rgb(255, 0, 0);
-}
 .wire_slot {
   width: 70px;
   height: 90px;
   position: absolute;
-  top: 20px;
+  top: -20px;
   left: 892px;
   border: 2px solid white;
   text-align: center;
 }
 .wire {
   position: absolute;
-  top: 70px;
+  top: 30px;
   left: 915px;
   border: 2px solid rgb(255, 255, 0);
 }
@@ -266,14 +266,14 @@ body {
   width: 70px;
   height: 90px;
   position: absolute;
-  top: 20px;
+  top: -20px;
   left: 970px;
   border: 2px solid white;
   text-align: center;
 }
 .shield {
   position: absolute;
-  top: 70px;
+  top: 30px;
   left: 993px;
   border: 2px solid rgb(0, 255, 255);
 }
@@ -288,14 +288,14 @@ body {
   width: 70px;
   height: 90px;
   position: absolute;
-  top: 20px;
+  top: -20px;
   left: 1048px;
   border: 2px solid white;
   text-align: center;
 }
 .camera {
   position: absolute;
-  top: 70px;
+  top: 30px;
   left: 1071px;
   border: 2px solid rgb(0, 255, 0);
 }
@@ -309,14 +309,14 @@ body {
   width: 70px;
   height: 90px;
   position: absolute;
-  top: 20px;
+  top: -20px;
   left: 1126px;
   border: 2px solid white;
   text-align: center;
 }
 .impact {
   position: absolute;
-  top: 70px;
+  top: 30px;
   left: 1149px;
   border: 2px solid rgb(0, 0, 255);
 }
@@ -330,14 +330,14 @@ body {
   width: 70px;
   height: 90px;
   position: absolute;
-  top: 20px;
+  top: -20px;
   left: 1204px;
   border: 2px solid white;
   text-align: center;
 }
 .c4 {
   position: absolute;
-  top: 70px;
+  top: 30px;
   left: 1227px;
   border: 2px solid rgb(255, 0, 255);
 }
@@ -351,14 +351,14 @@ body {
   width: 70px;
   height: 90px;
   position: absolute;
-  top:20px;
+  top: -20px;
   left: 1282px;
   border: 2px solid white;
   text-align: center;
 }
 .alarm {
   position: absolute;
-  top: 68px;
+  top: 30px;
   left: 1305px;
   border: 2px solid rgb(0, 255, 128);
 }
@@ -368,19 +368,40 @@ body {
   color: white;
   font-size: 12px;
 }
+.blocker_slot {
+  width: 70px;
+  height: 90px;
+  position: absolute;
+  top: -20px;
+  left: 1360px;
+  border: 2px solid white;
+  text-align: center;
+}
+.blocker {
+  position: absolute;
+  top: 30px;
+  left: 1383px;
+  border: 2px solid rgb(127, 127, 127);
+}
+.blocker_slot span {
+  display: inline-block;
+  margin: 10px 5px;
+  color: white;
+  font-size: 12px;
+}
 .barricade_slot {
   width: 70px;
   height: 90px;
   position: absolute;
-  top:20px;
-  left: 1360px;
+  top: -20px;
+  left: 1438px;
   border: 2px solid white;
   text-align: center;
 }
 .barricade {
   position: absolute;
-  top: 68px;
-  left: 1385px;
+  top: 26px;
+  left: 1463px;
   border: 2px solid rgb(255, 155, 0);
 }
 .barricade_slot span {
@@ -388,6 +409,66 @@ body {
   margin: 10px 5px;
   color: white;
   font-size: 12px;
+}
+.no1 {
+  position: absolute;
+  top: 86px;
+  left: 814px;
+  border: 2px solid rgb(255, 255, 255);
+}
+.no2 {
+  position: absolute;
+  top: 86px;
+  left: 854px;
+  border: 2px solid rgb(255, 255, 255);
+}
+.no3 {
+  position: absolute;
+  top: 86px;
+  left: 894px;
+  border: 2px solid rgb(255, 255, 255);
+}
+.no4 {
+  position: absolute;
+  top: 86px;
+  left: 934px;
+  border: 2px solid rgb(255, 255, 255);
+}
+.no5 {
+  position: absolute;
+  top: 86px;
+  left: 974px;
+  border: 2px solid rgb(255, 255, 255);
+}
+.no6 {
+  position: absolute;
+  top: 86px;
+  left: 1014px;
+  border: 2px solid rgb(255, 255, 255);
+}
+.no7 {
+  position: absolute;
+  top: 86px;
+  left: 1054px;
+  border: 2px solid rgb(255, 255, 255);
+}
+.no8 {
+  position: absolute;
+  top: 86px;
+  left: 1094px;
+  border: 2px solid rgb(255, 255, 255);
+}
+.no9 {
+  position: absolute;
+  top: 86px;
+  left: 1134px;
+  border: 2px solid rgb(255, 255, 255);
+}
+.no0 {
+  position: absolute;
+  top: 86px;
+  left: 1174px;
+  border: 2px solid rgb(255, 255, 255);
 }
 .container {
   position: relative;
@@ -825,7 +906,7 @@ canvas {
 .palette {
   position: absolute;
   top: -70px;
-  left: 1465px;
+  left: 1550px;
   position: relative;
 }
 label {
