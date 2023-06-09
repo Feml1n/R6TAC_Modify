@@ -470,6 +470,36 @@ body {
   left: 1174px;
   border: 2px solid rgb(255, 255, 255);
 }
+.no1c {
+  position: absolute;
+  top: 86px;
+  left: 1214px;
+  border: 2px solid rgb(255, 255, 255);
+}
+.no2c {
+  position: absolute;
+  top: 86px;
+  left: 1254px;
+  border: 2px solid rgb(255, 255, 255);
+}
+.no3c {
+  position: absolute;
+  top: 86px;
+  left: 1294px;
+  border: 2px solid rgb(255, 255, 255);
+}
+.no4c {
+  position: absolute;
+  top: 86px;
+  left: 1334px;
+  border: 2px solid rgb(255, 255, 255);
+}
+.no5c {
+  position: absolute;
+  top: 86px;
+  left: 1374px;
+  border: 2px solid rgb(255, 255, 255);
+}
 .container {
   position: relative;
   width: 1920px;
