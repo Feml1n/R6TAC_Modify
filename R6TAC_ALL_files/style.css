@@ -24,7 +24,7 @@ body {
 .attack_slot {
   border: 0.1rem solid white;
   display: block;
-  width: 770px;
+  width: 814px;
   height: 115px;
   position: relative;
   margin-top: 20px;
@@ -1105,6 +1105,10 @@ label {
 #brava {
   top: 65px;
   left: 730px;
+}
+#ram {
+  top: 15px;
+  left: 775px;
 }
 /* 防衛側オペレーターアイコンの位置決め */
 #smoke {
