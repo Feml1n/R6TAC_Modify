@@ -3,8 +3,8 @@ body {
 }
 .sponsored_slot{
   position: absolute;
-  top: 40px;
-  left: 1540px;
+  top: 20px;
+  left: 1530px;
 }
 .sponsored_slot p{
   margin-top: 4px;
@@ -16,7 +16,7 @@ body {
 .defense_slot {
   border: 0.1rem solid white;
   display: inline-block;
-  width: 770px;
+  width: 814px;
   height: 115px;
   position: relative;
   margin-left: 20px;
@@ -413,96 +413,96 @@ body {
 .no1 {
   position: absolute;
   top: 86px;
-  left: 814px;
+  left: 820px;
   border: 2px solid rgb(255, 255, 255);
 }
 .no2 {
   position: absolute;
   top: 86px;
-  left: 854px;
+  left: 860px;
   border: 2px solid rgb(255, 255, 255);
 }
 .no3 {
   position: absolute;
   top: 86px;
-  left: 894px;
+  left: 900px;
   border: 2px solid rgb(255, 255, 255);
 }
 .no4 {
   position: absolute;
   top: 86px;
-  left: 934px;
+  left: 940px;
   border: 2px solid rgb(255, 255, 255);
 }
 .no5 {
   position: absolute;
   top: 86px;
-  left: 974px;
+  left: 980px;
   border: 2px solid rgb(255, 255, 255);
 }
 .no6 {
   position: absolute;
   top: 86px;
-  left: 1014px;
+  left: 1020px;
   border: 2px solid rgb(255, 255, 255);
 }
 .no7 {
   position: absolute;
   top: 86px;
-  left: 1054px;
+  left: 1060px;
   border: 2px solid rgb(255, 255, 255);
 }
 .no8 {
   position: absolute;
   top: 86px;
-  left: 1094px;
+  left: 1100px;
   border: 2px solid rgb(255, 255, 255);
 }
 .no9 {
   position: absolute;
   top: 86px;
-  left: 1134px;
+  left: 1140px;
   border: 2px solid rgb(255, 255, 255);
 }
 .no0 {
   position: absolute;
   top: 86px;
-  left: 1174px;
+  left: 1180px;
   border: 2px solid rgb(255, 255, 255);
 }
 .no1c {
   position: absolute;
   top: 86px;
-  left: 1214px;
+  left: 1220px;
   border: 2px solid rgb(255, 255, 255);
 }
 .no2c {
   position: absolute;
   top: 86px;
-  left: 1254px;
+  left: 1260px;
   border: 2px solid rgb(255, 255, 255);
 }
 .no3c {
   position: absolute;
   top: 86px;
-  left: 1294px;
+  left: 1300px;
   border: 2px solid rgb(255, 255, 255);
 }
 .no4c {
   position: absolute;
   top: 86px;
-  left: 1334px;
+  left: 1340px;
   border: 2px solid rgb(255, 255, 255);
 }
 .no5c {
   position: absolute;
   top: 86px;
-  left: 1374px;
+  left: 1380px;
   border: 2px solid rgb(255, 255, 255);
 }
 .container {
   position: relative;
-  width: 1920px;
+  /* width: 1920px; */
   height: 900px;
 }
 /*タブ切り替え全体のスタイル*/
@@ -515,7 +515,7 @@ body {
 /*タブのスタイル*/
 .tab_item {
   height: 30px;
-  width: 135px;
+  width: 130px;
   background-color: #d9d9d9;
   line-height: 30px;
   font-size: 12px;
@@ -536,7 +536,7 @@ body {
 }
 /* マップ名前のタブの位置決め */
 .fz-5 {
-  font-size: 5px;
+  font-size: 10px;
 }
 .L1 {
   top: 12.8px;
@@ -905,7 +905,10 @@ input[name="tab_item"] {
 #yacht1fa:checked ~ #yacht1fa,
 #yacht1fb:checked ~ #yacht1fb,
 #ep2f:checked ~ #ep2f,
-#ep1f:checked ~ #ep1f {
+#ep1f:checked ~ #ep1f,
+#lair2f:checked ~ #lair2f,
+#lair1f:checked ~ #lair1f,
+#lairb1:checked ~ #lairb1 {
   display: block;
 }
 
@@ -935,9 +938,9 @@ canvas {
 }
 .palette {
   position: absolute;
-  top: -70px;
+  top: -60px;
   left: 1550px;
-  position: relative;
+  /* position: relative; */
 }
 label {
   color: white;
@@ -1246,4 +1249,8 @@ label {
 #fenrir {
   top: 65px;
   left: 730px;
+}
+#tubarao {
+  top: 15px;
+  left: 775px;
 }
