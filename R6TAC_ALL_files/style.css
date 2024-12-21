@@ -1113,6 +1113,10 @@ label {
   top: 15px;
   left: 775px;
 }
+#deimos {
+  top: 65px;
+  left: 775px;
+}
 /* 防衛側オペレーターアイコンの位置決め */
 #smoke {
   top: 15px;
@@ -1253,4 +1257,9 @@ label {
 #tubarao {
   top: 15px;
   left: 775px;
+}
+#skopos {
+  top: 65px;
+  left: 775px;
+
 }
