@@ -17,7 +17,7 @@ body {
   border: 0.1rem solid white;
   display: inline-block;
   width: 814px;
-  height: 115px;
+  height: 145px;
   position: relative;
   margin-left: 20px;
 }
@@ -25,7 +25,7 @@ body {
   border: 0.1rem solid white;
   display: block;
   width: 814px;
-  height: 115px;
+  height: 145px;
   position: relative;
   margin-top: 20px;
   margin-left: 20px;
@@ -1117,6 +1117,11 @@ label {
   top: 65px;
   left: 775px;
 }
+
+#striker {
+  top: 105px;
+  left: 10px;
+}
 /* 防衛側オペレーターアイコンの位置決め */
 #smoke {
   top: 15px;
@@ -1262,4 +1267,8 @@ label {
   top: 65px;
   left: 775px;
 
+}
+#sentry {
+  top: 105px;
+  left: 10px;
 }
