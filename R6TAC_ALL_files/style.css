@@ -1127,6 +1127,11 @@ label {
   top: 105px;
   left: 55px;
 }
+
+#snake {
+  top: 105px;
+  left: 100px;
+}
 /* 防衛側オペレーターアイコンの位置決め */
 #smoke {
   top: 15px;
