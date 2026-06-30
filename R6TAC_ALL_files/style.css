@@ -908,7 +908,11 @@ input[name="tab_item"] {
 #ep1f:checked ~ #ep1f,
 #lair2f:checked ~ #lair2f,
 #lair1f:checked ~ #lair1f,
-#lairb1:checked ~ #lairb1 {
+#lairb1:checked ~ #lairb1,
+#Casino2f:checked ~ #Casino2f,
+#Casino1f:checked ~ #Casino1f,
+#Casinob1:checked ~ #Casinob1
+ {
   display: block;
 }
 
